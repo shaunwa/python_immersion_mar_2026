@@ -1,0 +1,3 @@
+Make sure to pdractice python every day!
+Networking is easy in python
+Python collection types include lists, tuples, sets, and dictionaries
